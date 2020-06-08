@@ -121,12 +121,13 @@ body {
     .photocontainer{
         height: 100%;
         width: 50%;
-        left: 50%; 
+        left: 40%; 
     }
 
     #nav{
         left: 10%;
         bottom: -5%;
+        cursor: pointer;
     }
     
     .quotecontainer{
